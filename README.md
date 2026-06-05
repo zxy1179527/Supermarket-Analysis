@@ -17,3 +17,7 @@
 │   └── top5_products.sql         # 货品策略：应用 DENSE_RANK() 挖掘各子品类畅销商品 Top 5
 └── tableau/
     └── Supermarket_Operations_Dashboard.twbx  # Tableau 打包工作簿
+```
+
+## Dashboard 展示图
+![Dashboard 展示图](dashboard_screenshot.png)
