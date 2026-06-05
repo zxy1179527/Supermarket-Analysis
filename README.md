@@ -1,7 +1,8 @@
-# 超市核心经营与物流时效监控驾驶舱 (MySQL + Tableau)
+# 超市核心经营与物流时效监控
 
-## 📌 项目概述
-本项目基于全渠道零售超市的交易样本数据（https://www.kaggle.com/datasets/abubakerasiel/super-market-analyses），独立完成了从**底仓数仓清洗、高级业务逻辑计算（同环比/TopN排序/配送时效分析）到 Tableau 可视化大屏开发**的全链路商业流程。
+> 项目概述
+本项目基于全渠道零售超市的交易样本数据（https://www.kaggle.com/datasets/abubakerasiel/super-market-analyses）
+> 独立完成了从**底仓数仓清洗、高级业务逻辑计算（同环比/TopN排序/配送时效分析）到 Tableau 可视化大屏开发**的全链路商业流程。
 
 ## 🛠️ 技术栈
 * **数据清洗与分析**：MySQL 8.0 
