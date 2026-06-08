@@ -20,4 +20,4 @@
 ```
 
 ## Dashboard 展示图
-![Dashboard 展示图](dashboard_screenshot.png)
+![Dashboard 展示图](超市综合运营看板.png)
